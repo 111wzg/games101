@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/firefly/wzg/games101/Assignment0/code/main.cpp
+iostream
+-
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Dense
+-
+cmath
+-
+
