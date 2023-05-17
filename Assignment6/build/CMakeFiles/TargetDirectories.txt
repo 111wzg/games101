@@ -1,0 +1,3 @@
+/home/firefly/111wzg/games101/Assignment6/build/CMakeFiles/rebuild_cache.dir
+/home/firefly/111wzg/games101/Assignment6/build/CMakeFiles/RayTracing.dir
+/home/firefly/111wzg/games101/Assignment6/build/CMakeFiles/edit_cache.dir
