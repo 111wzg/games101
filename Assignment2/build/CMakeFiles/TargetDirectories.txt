@@ -1,0 +1,3 @@
+/home/firefly/wzg/games101/Assignment2/build/CMakeFiles/Rasterizer.dir
+/home/firefly/wzg/games101/Assignment2/build/CMakeFiles/edit_cache.dir
+/home/firefly/wzg/games101/Assignment2/build/CMakeFiles/rebuild_cache.dir
